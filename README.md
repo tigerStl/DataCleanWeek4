@@ -7,7 +7,7 @@ for John Hopkin's Dataclean week4
 > ### 3, under c:\tempR, you could see some files and folders
     -----getdata_projectfiles_UCI HAR Dataset.zip <br>
     |<br>
-    |----UCI HAR Dataset    <br>
+    |----UCI HAR Dataset    
         |    <br>
         |------activity_labels.txt    <br>
         |------features.txt    <br>
